@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90abb900-e666-41ca-901b-4e0939b5e771" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/src/components/bookings/CreateBooking.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/bookings/CreateBooking.tsx" afterDir="false" />
+>>>>>>> 4f75a3a9469fedfdaa3a62b250fea30110156dd7
+      <change beforePath="$PROJECT_DIR$/src/components/bookings/EditBooking.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/bookings/EditBooking.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/BookingService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/BookingService.ts" afterDir="false" />
+=======
+>>>>>>> 1c9ea1f55643028776ddd3663b94f0ab8d66b086
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jlpa3RHmmGkmGqyuaQ3tMId9nj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.tslint": "(autodetect)",
+    "ts.external.directory.path": "C:\\Users\\plako\\projects\\suomenmuuttolaatikko.muuttoja.fi\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\plako\\projects\\suomenmuuttolaatikko.muuttoja.fi\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+>>>>>>> 4f75a3a9469fedfdaa3a62b250fea30110156dd7
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90abb900-e666-41ca-901b-4e0939b5e771" name="Changes" comment="" />
+      <created>1672662585069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672662585069</updated>
+      <workItem from="1672662586352" duration="2393000" />
+      <workItem from="1673424877335" duration="480000" />
+      <workItem from="1673707893218" duration="6836000" />
+      <workItem from="1674283208127" duration="1698000" />
+      <workItem from="1675881967356" duration="2431000" />
+      <workItem from="1676124793418" duration="812000" />
+      <workItem from="1676837123862" duration="1350000" />
+      <workItem from="1676898054106" duration="15222000" />
+      <workItem from="1677165805711" duration="781000" />
+      <workItem from="1677188519734" duration="2435000" />
+      <workItem from="1679916522898" duration="1670000" />
+      <workItem from="1680296712374" duration="2196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
